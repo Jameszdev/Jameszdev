@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Hi 👋 My name is James
-======================I'm a 17 year old aspiring software engineer.---------------------------------------------I've loved coding and working with tech since I was really young. Although I really got started into making my own projects during 2020, when I learned Python and made Discord Bots. Since then I've loved make full-stack web apps, utility APIs, assistance bots and much much more!* 🌍  I'm based in Ireland* 🖥️  See my portfolio at [My Personal Website](http://jamesz.dev)* ✉️  You can contact me at [james@jamesz.dev](mailto:james@jamesz.dev)* 🚀  I'm currently working on [BeatleBot](http://beatlebot.pogr.cc)* 🧠  I'm learning React with Next.js and Typescript
+======================
+I'm a 17 year old aspiring software engineer.
+---------------------------------------------
+I've loved coding and working with tech since I was really young. Although I really got started into making my own projects during 2020, when I learned Python and made Discord Bots. Since then I've loved make full-stack web apps, utility APIs, assistance bots and much much more!* 🌍  I'm based in Ireland* 🖥️  See my portfolio at [My Personal Website](http://jamesz.dev)* ✉️  You can contact me at [james@jamesz.dev](mailto:james@jamesz.dev)* 🚀  I'm currently working on [BeatleBot](http://beatlebot.pogr.cc)* 🧠  I'm learning React with Next.js and Typescript
 
 ### Skills
 
