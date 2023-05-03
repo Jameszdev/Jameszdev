@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 Hi 👋 My name is James
 ======================
 
-I'm a 17 year old aspiring software engineer.
+I'm a 18 year old aspiring software engineer.
 ---------------------------------------------
 
-I've loved coding and working with tech since I was really young. Although I really got started into making my own projects during 2020, when I learned Python and made Discord Bots. Since then I've loved make full-stack web apps, utility APIs, assistance bots and much much more!
+I've loved coding and working with tech since I was really young. Although I really got started into making my own projects during 2020, when I learned Python and made Discord Bots. Since then I've loved make full-stack web apps, utility APIs, assistance bots and much much more! 
+
+The majority of my projects are on my [GitLab](https://git.jamesz.dev)
 
 *   🌍  I'm based in Ireland
 *   🖥️  See my portfolio at [My Personal Website](http://jamesz.dev)
